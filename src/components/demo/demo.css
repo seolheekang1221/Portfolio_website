@@ -1,0 +1,14 @@
+.container {
+    position: relative;
+}
+
+.sun, .moon {
+    font-size: 10rem;
+    width: fit-content;
+    height: fit-content;
+}
+
+.moon {
+    position: absolute;
+    inset: 0;
+}
