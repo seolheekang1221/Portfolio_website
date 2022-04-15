@@ -40,7 +40,7 @@ const data = [
     image: IMG5,
     title: 'Seolhee Portfolio',
     github: 'https://github.com/seolheekang1221/Portfolio_website',
-    demo: 'https://dribbble.com/shots/16541289-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    demo: 'https://jazzy-begonia-97983c.netlify.app/'
   },
 ]
 
