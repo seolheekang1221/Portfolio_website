@@ -13,7 +13,6 @@ header {
 
 .cta {
     margin-top: 1.8rem;
-    gap: 1rem;
 }
 
 .header__socials {
@@ -22,9 +21,9 @@ header {
     align-items: center;
     gap: 0.8rem;
     position: absolute;
-    left: 2rem;
-    font-size: 1.2rem;
-    bottom: 3rem;
+    left: 35rem;
+    font-size: 2rem;
+    bottom: 3.5rem;
 }
  
 .header__socials::after {
@@ -36,14 +35,12 @@ header {
 
 .me {
     background: linear-gradient(var(--color-primary), transparent);
-    
     width: 20rem;
     height: 32rem;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
     margin-top: 4rem;
-    border-radius: 10rem 10rem 3rem 3rem;
     overflow: hidden;
     padding: 5rem 1.5rem 1.5rem 1.5rem;    
     max-width: 20rem;
@@ -56,8 +53,7 @@ header {
     right: 1rem;
     bottom: 5rem;
     transform: rotate(90deg);
-    font-weight: 300;
-    font-size: 1rem;
+    font-size: 1.2rem;
 
 }
 

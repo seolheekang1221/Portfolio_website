@@ -7,17 +7,19 @@ import HeaderSocials from './HeaderSocials'
 function Header() {
   return (
     <header>
-        <div className="container.header__container">
-            <h5>Hello! I'm</h5>
-            <h1>Seolhee Kang</h1>
-            <h5 className='text-light'>Fullstack Developer</h5>
-              <CTA />
-              <HeaderSocials />
-            <div className="me">
-                <img src={ME} alt="me" />
-            </div>
-            <a href="#contact" className='scroll__down'>Scroll Down</a>
+      <div className="container.header__container">
+        <div className='text-light'>
+          <h4>Hello! I'm</h4>
+          <h1>Seolhee Kang</h1>
+          <h3>Junior Fullstack Developer</h3>
         </div>
+        <CTA />
+        <HeaderSocials />
+        <div className="me">
+          <img src={ME} alt="me" />
+        </div>
+        <a href="#contact" className='scroll__down'>Scroll Down</a>
+      </div>
     </header>
   )
 }
