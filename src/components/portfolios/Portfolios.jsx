@@ -1,57 +1,47 @@
 import React from 'react'
 import './portfolios.css'
-import IMG1 from '../../assets/4.jpg'
-import IMG2 from '../../assets/4.jpg'
-import IMG3 from '../../assets/4.jpg'
-import IMG4 from '../../assets/4.jpg'
-import IMG5 from '../../assets/4.jpg'
-import IMG6 from '../../assets/4.jpg'
-
-// DO NOT USE THE IMAGES IN PRODUCTION
+import IMG1 from '../../assets/food.jpg'
+import IMG2 from '../../assets/mapty.jpg'
+import IMG3 from '../../assets/glasses.jpg'
+import IMG4 from '../../assets/momentum.jpg'
+import IMG5 from '../../assets/portfolio.jpg'
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Crypto Currency Dashboard & Financial Visualization',
-    github: 'https://github.com/seolheekang1221',
-    demo: 'https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+    title: 'Food Order App',
+    github: 'https://github.com/seolheekang1221/Food_order_app',
+    demo: 'https://famous-gingersnap-88a91f.netlify.app'
   },
   {
     id: 2,
     image: IMG2,
-    title: 'Charts templates & infographics in Figma',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16580766-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    title: 'Maptify App',
+    github: 'https://github.com/seolheekang1221/mapty_app',
+    demo: 'https://github.com/seolheekang1221/mapty_app'
   },
   {
     id: 3,
     image: IMG3,
-    title: 'Figma dashboard UI kit for data design web apps',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/17290917-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps'
+    title: 'Glasses Store',
+    github: 'https://github.com/seolheekang1221/glasses_store',
+    demo: 'https://wondrous-lamington-29512b.netlify.app/'
   },
   {
     id: 4,
     image: IMG4,
-    title: 'Maintaining tasks and tracking progress',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16955822-Maintaining-tasks-and-tracking-progress'
+    title: 'Momentum',
+    github: 'https://github.com/seolheekang1221/momentum',
+    demo: ' https://seolheekang1221.github.io/momentum/'
   },
   {
     id: 5,
     image: IMG5,
-    title: 'Charts templates & infographics in Figma',
-    github: 'https://github.com',
+    title: 'Seolhee Portfolio',
+    github: 'https://github.com/seolheekang1221/Portfolio_website',
     demo: 'https://dribbble.com/shots/16541289-Orion-UI-kit-Charts-templates-infographics-in-Figma'
   },
-  {
-    id: 6,
-    image: IMG6,
-    title: 'Charts templates & infographics in Figma',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/15887665-Orion-UI-kit-Charts-templates-infographics-in-Figma'
-  }
 ]
 
 
