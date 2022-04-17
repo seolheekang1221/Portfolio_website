@@ -5,4 +5,4 @@
 
 # Deployment
 This app is deployed and hosted using Netlify. 
-<a href="https://jazzy-begonia-97983c.netlify.app/" rel="nofollow">Seolhee Portfolio<a/>
+<a href="https://seolheekangportfolio.netlify.app/" rel="nofollow">Seolhee Portfolio<a/>
