@@ -1,6 +1,6 @@
 header {
     height: 100vh;
-    padding-top: 7rem;
+    padding-top: 6.5rem;
     overflow: hidden;
     text-align: center;
 }
@@ -13,6 +13,10 @@ header {
 
 .cta {
     margin-top: 1.8rem;
+}
+
+.cta .btn {
+    margin: 0.4rem;
 }
 
 .header__socials {
